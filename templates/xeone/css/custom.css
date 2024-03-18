@@ -1,0 +1,74 @@
+.slider_btn1{
+	font-size: 13px !important;
+	color: #fff !important;
+    padding: 15px 36px !important;
+    background: #00bcd4 !important;
+    border: 1px solid transparent !important;
+    -webkit-border-radius: 30px !important;
+    border-radius: 30px !important;
+    overflow: hidden;
+    text-transform: uppercase !important;
+    font-weight: 700 !important;
+    letter-spacing: 0 !important; 
+}
+.slider_btn2{
+	font-size: 13px !important;
+	color: #fff !important;
+    padding: 15px 36px !important; 
+    border: 1px solid transparent !important;
+    -webkit-border-radius: 30px !important;
+    border-radius: 30px !important;
+    overflow: hidden;
+    text-transform: uppercase !important;
+    font-weight: 700 !important;
+    letter-spacing: 0 !important; 
+}
+.slider_btn1:hover{
+	background: transparent !important;
+    border: 1px solid #fff !important;
+}
+.slider_btn2:hover{
+	background: #ffffff !important;
+    border: 1px solid #fff !important;
+    color: #212331 !important;
+}
+.btheader1 .navbar-nav{
+    width: 100%!important;
+} 
+.btheader2 ul.navbar-nav,.btheader3 .navbar-nav,.btheader5 ul.navbar-nav,.btheader7 ul.navbar-nav{
+	margin-left: auto;
+}
+.center-brand .navbar-nav .nav-item:nth-child(5) {
+    margin-left: auto;
+}
+#je_contact input, #je_contact textarea {
+    background-color: #fff;
+    border: none;
+    color: #a5a5a5;
+    border-bottom: 1px solid #a5a5a5;
+}
+#je_contact button[type="submit"], .qcbutton a.je_button{
+	background: #00bcd4;
+    padding: 1rem 2.5rem;
+    height: auto;
+    line-height: 1;
+}
+#je_contact button[type="submit"]:hover,.qcbutton a.je_button:hover{
+	background: #643094; 
+} 
+.bt-padding-top{
+	padding-top: 6rem;
+}
+.pagination li > span, .pagination li:first-child span, .pagination li:last-child span {
+    -webkit-border-radius: 50% !important;
+    border-radius: 50% !important;
+	height: 36px;
+    width: 36px;
+    padding: 0;
+    line-height: 36px;
+    font-size: 18px;
+    color: #a5a5a5;
+    text-align: center;
+    margin: 0 4px;
+    border: none;
+}
