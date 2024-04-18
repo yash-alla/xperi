@@ -1,0 +1,6 @@
+[15-Apr-2024 19:21:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'roota'@'localhost' (using password: YES) in /home/gukitzpx/public_html/login/index.php on line 52
+[15-Apr-2024 19:24:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'roota'@'localhost' (using password: YES) in /home/gukitzpx/public_html/login/index.php on line 52
+[15-Apr-2024 19:24:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'roota'@'localhost' (using password: YES) in /home/gukitzpx/public_html/login/index.php on line 52
+[15-Apr-2024 19:25:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'roota'@'localhost' (using password: YES) in /home/gukitzpx/public_html/login/index.php on line 52
+[15-Apr-2024 19:25:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'roota'@'localhost' (using password: YES) in /home/gukitzpx/public_html/login/index.php on line 52
+[15-Apr-2024 19:25:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'roota'@'localhost' (using password: YES) in /home/gukitzpx/public_html/login/index.php on line 52
